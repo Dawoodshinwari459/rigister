@@ -1,1 +1,1 @@
-# rigister
+# register
